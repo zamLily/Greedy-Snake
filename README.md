@@ -19,5 +19,5 @@ Simple Greedy Snake（贪吃蛇），pygame
 pyinstaller -F -w Greedy_Snake.py  
   
   
-记得把exe_pic中的图片放到exe所在目录下！
+记得把exe_pic中的图片放到exe所在目录下（还有Greedy_Snake.py目录下）！
 
