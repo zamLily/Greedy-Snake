@@ -7,12 +7,12 @@ Simple Greedy Snake（贪吃蛇），pygame
   
   
 2、游戏过程  
-![image](https://github.com/zamLily/Greedy-Snake-/blob/master/process.png)  
+<img src="https://github.com/zamLily/Greedy-Snake-/blob/master/process.png" width="50%" height="50%">
+
   
   
 3、游戏结束  
-![image](https://github.com/zamLily/Greedy-Snake-/blob/master/end.png)  
-  
+<img src="https://github.com/zamLily/Greedy-Snake-/blob/master/end.png" width="50%" height="50%">  
   
 
 将py导出为exe：
