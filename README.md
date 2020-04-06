@@ -2,7 +2,8 @@
 Simple Greedy Snake（贪吃蛇），pygame
 
 1、开始界面和游戏说明  
-![image](https://github.com/zamLily/Greedy-Snake-/blob/master/start.png)  
+<img src="https://github.com/zamLily/Greedy-Snake-/blob/master/start.png" width="50%" height="50%">
+
   
   
 2、游戏过程  
